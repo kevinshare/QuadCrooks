@@ -1,15 +1,10 @@
-# ShareNugs:
 
 
 # To Run Application:
 
 ## Clone Repo
-## cd ShareNugs/
+## cd QuadCrooks/
 ## npm i -S
 ## npm run dev
 
 # To Create Data:
-
-## mongod
-## mongo localhost
-## npm run generate
