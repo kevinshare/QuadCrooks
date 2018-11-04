@@ -1,13 +1,5 @@
 import { Component } from 'react';
 import Link from 'next/link';
-import Header from './HeaderBack';
-// import Panel from './Panel';
-
-
-// const layoutStyle = {
-//   border: '1px solid green',
-//   width: '600px',
-// };
 
 export default class extends Component {
   constructor(props) {
